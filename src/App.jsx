@@ -15,6 +15,7 @@ import dayjs from 'dayjs';
 
 function App() {
   const a = 10;
+  const a = 10;
   const [boardList, setBoardList] = useState([]);
 
   useEffect(() => {
